@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>lombok</module>
+        <module>spring-configuration-processor</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
