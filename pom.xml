@@ -6,6 +6,8 @@
     <modules>
         <module>lombok</module>
         <module>spring-configuration-processor</module>
+        <module>spring-boot-admin-server</module>
+        <module>spring-boot-admin-client</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
