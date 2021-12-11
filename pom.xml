@@ -8,6 +8,7 @@
         <module>spring-configuration-processor</module>
         <module>spring-boot-admin-server</module>
         <module>spring-boot-admin-client</module>
+        <module>spring-reactive-web</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
